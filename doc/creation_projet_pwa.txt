@@ -1,0 +1,7 @@
+npx create-react-app detecter-objet --template cra-template-pwa
+
+npx create-react-app detecter-objet --template cra-template-pwa --legacy-peer-deps(si il y a conflit)
+
+cd detecter-objet
+
+npm start

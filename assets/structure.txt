@@ -1,0 +1,20 @@
+projet_detection_objets/
+├── data/
+│   ├── raw/
+│   └── processed/
+├── models/
+├── notebooks/
+├── src/
+│   ├── __init__.py
+│   ├── dataset_loader.py
+│   ├── image_preprocessor.py
+│   ├── annotator.py
+│   ├── trainer.py
+│   ├── detector.py
+│   └── utils.py
+├── app/
+│   ├── gui.py
+│   └── cli.py
+├── main.py
+├── requirements.txt
+└── README.md
